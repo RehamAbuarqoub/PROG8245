@@ -19,9 +19,9 @@ jupyter notebook
 
 ## Other Projects
 
-I recently started using GitHub and these are the only links that I have now, hopefully, I will uplaod all my prevoius project n to keep it the main refernce for my projects.
+I’ve only just started using GitHub, so these are the only repositories I have right now. I plan to upload my earlier projects soon so this can become the main reference for all my work.
 
-- https://github.com/RehamAbuarqoub/PROG8245
-- https://github.com/RehamAbuarqoub/Data-Analysis
--
+- https://github.com/RehamAbuarqoub/CSCN8010_Introduction.git
+- https://github.com/RehamAbuarqoub/Data-Analysis.git
+- https://github.com/RehamAbuarqoub/PROG8245.git
 
