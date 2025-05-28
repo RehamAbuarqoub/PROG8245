@@ -25,3 +25,10 @@ I’ve only just started using GitHub, so these are the only repositories I have
 - https://github.com/RehamAbuarqoub/Data-Analysis.git
 - https://github.com/RehamAbuarqoub/CSCN8010_Introduction.git
 
+## References
+
+The course slides
+W3School
+ChatGPT
+(https://archive.ics.uci.edu/ml/datasets/online+retail) Dataset
+
