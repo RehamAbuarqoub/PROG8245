@@ -7,8 +7,6 @@ This project is a hands-on data engineering and analysis exercise using Python, 
 ## Data Sources
 
 - I used synthetic data generated using faker library from python. this data stored on Neon cloud database.
-https://console.neon.tech/app/projects/misty-silence-75109701?database=Lab3_DB&branchId=br-summer-scene-a8z5s0fu
-
 
 
 
