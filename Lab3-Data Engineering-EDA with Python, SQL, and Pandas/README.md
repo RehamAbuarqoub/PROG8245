@@ -1,9 +1,12 @@
+
+# Reham Abuarqoub   9062922
 # Lab3 - Data Engineering & EDA with Python, SQL, and Pandas
 
-T
+This project is a hands-on data engineering and analysis exercise using Python, SQL, and Pandas. It involves generating synthetic employee data, storing it in a cloud SQL database, performing EDA, and creating visualizations to extract meaningful business insights.
+
 ## Data Sources
 
-- I used synthetic data generated using faker library. this data stored on Neon cloud database.
+- I used synthetic data generated using faker library from python. this data stored on Neon cloud database.
 https://console.neon.tech/app/projects/misty-silence-75109701?database=Lab3_DB&branchId=br-summer-scene-a8z5s0fu
 
 
